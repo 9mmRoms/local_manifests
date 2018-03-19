@@ -5,7 +5,7 @@
 <remote name="owens" fetch="https://github.com/MotoOwensDevel" />
  
  
-<!-- owens shit -->
+<!-- owens stuff -->
 <project path="kernel/motorola/msm8937" name="android_kernel_motorola_msm8937" remote="owens" revision="cm-14.1" /> 
 <project path="device/motorola/owens" name="android_device_motorola_owens" remote="owens" revision="cm-14.1" />
 <project path="device/motorola/qcom318-32" name="android_device_motorola_qcom318-32" remote="owens" revision="cm-14.1" />
